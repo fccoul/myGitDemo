@@ -1,1 +1,2 @@
 ceci est un fichier.txt de qualité
+ok je l'ai modifié en ligne
